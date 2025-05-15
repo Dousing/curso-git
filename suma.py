@@ -1,5 +1,5 @@
-def suma(*num):
-        return sum(num)
+def suma(*numero):
+        return sum(numero)
 
 def resta(a,b):
         return (a-b)
